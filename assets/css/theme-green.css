@@ -365,6 +365,10 @@ textarea.form-control {
   background: #fff;
 }
 
+.about {
+  padding-bottom: 5rem;
+}
+
 .module-Parques {
   padding: 0;
 }
